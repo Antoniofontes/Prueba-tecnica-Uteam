@@ -1,0 +1,1 @@
+export const MAX_PELICULAS_POR_PERSONA = 5;
